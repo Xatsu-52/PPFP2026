@@ -1,5 +1,5 @@
 public class Main {
-    public static final int SIZE = 10000000; 
+    public static final int SIZE = 10000000;
     public static final int THREADS = 6;
     public static final int ITEMS_PER_THREAD = SIZE / THREADS;
     public static final double A = 0.0;
