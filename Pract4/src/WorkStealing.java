@@ -4,6 +4,8 @@ import java.util.Random;
 import java.util.Vector;
 import java.util.concurrent.BlockingDeque;
 import java.util.concurrent.Executor;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.RejectedExecutionException;
 import java.util.concurrent.TimeUnit;
@@ -19,11 +21,43 @@ public class WorkStealing {
         PARETO
     }
 
+    enum TaskWork {
+        SLEEP,
+        BLACK_HOLE
+    }
+
     interface Shutdownable{
         void shutdown();
     }
 
     public interface ShutdownableExecutor extends Shutdownable, Executor{}
+
+    static class FixedThreadPoolExecutor implements ShutdownableExecutor {
+        private final ExecutorService executor;
+
+        FixedThreadPoolExecutor(int threads) {
+            executor = Executors.newFixedThreadPool(threads);
+        }
+
+        @Override
+        public void execute(Runnable command) {
+            executor.execute(command);
+        }
+
+        @Override
+        public void shutdown() {
+            executor.shutdown();
+            try {
+                while (!executor.awaitTermination(1, TimeUnit.DAYS)) {
+                    // Keep waiting until all submitted tasks finish.
+                }
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt();
+                throw new RuntimeException(e);
+            }
+        }
+    }
+
     static class ThreadPerTaskExecutor implements ShutdownableExecutor{
         List<Thread> threads = new ArrayList<>();
         @Override
@@ -160,8 +194,9 @@ public class WorkStealing {
 
     // Это вещи, которые нам нужны
     static final int THREAD_NUMBER = 10;
-    static final int TASK_NUMBER = 100_000;
-    static final int TARGET_OPTIMAL_FULL_TIME = 10_000; //ms = 10 s
+    static final int TASK_NUMBER = 1_000; // Ограничено, чтобы безопасно запускать ThreadPerTaskExecutor.
+    static final int TARGET_OPTIMAL_FULL_TIME = 1_000; // ms = 1 s
+    static final long BLACK_HOLE_DIFFICULTY_SCALE = 10_000;
 
     // Это всякое вспомогательное побочное
     static final int MEAN_TASK_TIME =  (int) Math.round((TARGET_OPTIMAL_FULL_TIME + 0d) / TASK_NUMBER * THREAD_NUMBER); //ms
@@ -173,13 +208,27 @@ public class WorkStealing {
     static final double PARETO_SHAPE = 1.5;
     static final int PARETO_RAW_MAX_TASK_TIME = MEAN_TASK_TIME * 100;
 
-    static Runnable createTask(int duration){
-        return () -> {
-            try {
-                Thread.sleep(duration);
-            } catch (InterruptedException e) {
-                throw new RuntimeException(e);
-            }
+    static volatile long blackHoleResult;
+
+    static void blackHole(long difficulty) {
+        long result = 0;
+        for (long i = 0; i < difficulty; i++) {
+            result = result * 31 + i;
+        }
+        blackHoleResult = result;
+    }
+
+    static Runnable createTask(int duration, TaskWork work) {
+        return switch (work) {
+            case SLEEP -> () -> {
+                try {
+                    Thread.sleep(duration);
+                } catch (InterruptedException e) {
+                    Thread.currentThread().interrupt();
+                    throw new RuntimeException(e);
+                }
+            };
+            case BLACK_HOLE -> () -> blackHole((long) duration * BLACK_HOLE_DIFFICULTY_SCALE);
         };
     }
 
@@ -233,20 +282,21 @@ public class WorkStealing {
         return durations;
     }
 
-    static Vector<Runnable> createTasks(TaskDistribution distribution){
+    static Vector<Runnable> createTasks(TaskDistribution distribution, TaskWork work) {
         var durations = createTaskDurations(distribution);
         return new Vector<>(
                 IntStream
                     .iterate(0, x -> x < TASK_NUMBER, x -> x + 1)
-                    .mapToObj(x -> createTask(durations[x]))
+                    .mapToObj(x -> createTask(durations[x], work))
                     .toList()
         );
     }
 
     public record Pair<A,B>(A first, B second){};
 
-    public static Pair<Long, Long> measureExecutor(ShutdownableExecutor executor, TaskDistribution distribution){
-        var tasks = createTasks(distribution);
+    public static Pair<Long, Long> measureExecutor(
+            ShutdownableExecutor executor, TaskDistribution distribution, TaskWork work) {
+        var tasks = createTasks(distribution, work);
         var start = System.nanoTime();
         tasks.forEach(executor::execute);
         var submitionEnd = System.nanoTime();
@@ -259,24 +309,22 @@ public class WorkStealing {
         System.out.println("Target optimal time: " + TARGET_OPTIMAL_FULL_TIME);
         System.out.println("Estimated optimal time: " + ESTIMATED_OPTIMAL_TIME);
 
-        // В теории, на винде вот эта строчка может навернуть систему, будьте аккуратны!
-        var threadPerTaskExecutorResult = measureExecutor(new ThreadPerTaskExecutor(), TaskDistribution.UNIFORM);
-
-        System.out.println("Thread per task executor submtition time: " + threadPerTaskExecutorResult.first/1_000_000d);
-        System.out.println("Thread per task execution time: " + threadPerTaskExecutorResult.second/1_000_000d);
-
-        for (var distribution : TaskDistribution.values()) {
-            System.out.println("Task distribution: " + distribution);
-
-            var roundRobinExecutorResult = measureExecutor(new RoundRobinExecutor(THREAD_NUMBER), distribution);
-
-            System.out.println("Round Robin Executor submition time: " + roundRobinExecutorResult.first/1_000_000d);
-            System.out.println("Round Robin Executor execution time: " + roundRobinExecutorResult.second/1_000_000d);
-
-            var workStealingExecutorResult = measureExecutor(new WorkStealingExecutor(THREAD_NUMBER), distribution);
-
-            System.out.println("Work Stealing Executor submition time: " + workStealingExecutorResult.first/1_000_000d);
-            System.out.println("Work Stealing Executor execution time: " + workStealingExecutorResult.second/1_000_000d);
+        for (var work : TaskWork.values()) {
+            for (var distribution : TaskDistribution.values()) {
+                System.out.println("Work: " + work + ", task distribution: " + distribution);
+                printMeasurement("Thread per task", new ThreadPerTaskExecutor(), distribution, work);
+                printMeasurement("Fixed thread pool", new FixedThreadPoolExecutor(THREAD_NUMBER), distribution, work);
+                printMeasurement("Round robin", new RoundRobinExecutor(THREAD_NUMBER), distribution, work);
+                printMeasurement("Work stealing", new WorkStealingExecutor(THREAD_NUMBER), distribution, work);
+            }
         }
+    }
+
+    static void printMeasurement(
+            String name, ShutdownableExecutor executor, TaskDistribution distribution, TaskWork work) {
+        var result = measureExecutor(executor, distribution, work);
+        System.out.printf(
+                "%s: submission=%.3f ms, total=%.3f ms%n",
+                name, result.first / 1_000_000d, result.second / 1_000_000d);
     }
 }
