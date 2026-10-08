@@ -245,6 +245,7 @@ public class WorkStealing {
 
     static int[] createTaskDurations(TaskDistribution distribution) {
         var random = new Random(RANDOM_SEED);
+        // var random = java.util.concurrent.ThreadLocalRandom.current();
         var durations = new int[TASK_NUMBER];
 
         long totalDuration = 0;
