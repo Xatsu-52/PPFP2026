@@ -49,7 +49,6 @@ public class WorkStealing {
             executor.shutdown();
             try {
                 while (!executor.awaitTermination(1, TimeUnit.DAYS)) {
-                    // Keep waiting until all submitted tasks finish.
                 }
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();
@@ -192,13 +191,11 @@ public class WorkStealing {
         }
     }
 
-    // Это вещи, которые нам нужны
     static final int THREAD_NUMBER = 10;
     static final int TASK_NUMBER = 100_000; 
     static final int TARGET_OPTIMAL_FULL_TIME = 1_000; // ms = 1 s
     static final long BLACK_HOLE_DIFFICULTY_SCALE = 10_000;
 
-    // Это всякое вспомогательное побочное
     static final int MEAN_TASK_TIME =  (int) Math.round((TARGET_OPTIMAL_FULL_TIME + 0d) / TASK_NUMBER * THREAD_NUMBER); //ms
     static final int LOWER_TASK_TIME_BOUND = 0;
     static final int HIGHER_TASK_TIME_BOUND = MEAN_TASK_TIME * 2+1;
@@ -248,7 +245,6 @@ public class WorkStealing {
 
     static int[] createTaskDurations(TaskDistribution distribution) {
         var random = new Random(RANDOM_SEED);
-        // var random = java.util.concurrent.ThreadLocalRandom.current();
         var durations = new int[TASK_NUMBER];
 
         long totalDuration = 0;
