@@ -194,7 +194,7 @@ public class WorkStealing {
 
     // Это вещи, которые нам нужны
     static final int THREAD_NUMBER = 10;
-    static final int TASK_NUMBER = 1_000; // Ограничено, чтобы безопасно запускать ThreadPerTaskExecutor.
+    static final int TASK_NUMBER = 100_000; 
     static final int TARGET_OPTIMAL_FULL_TIME = 1_000; // ms = 1 s
     static final long BLACK_HOLE_DIFFICULTY_SCALE = 10_000;
 
