@@ -316,6 +316,7 @@ public class WorkStealing {
                 printMeasurement("Fixed thread pool", new FixedThreadPoolExecutor(THREAD_NUMBER), distribution, work);
                 printMeasurement("Round robin", new RoundRobinExecutor(THREAD_NUMBER), distribution, work);
                 printMeasurement("Work stealing", new WorkStealingExecutor(THREAD_NUMBER), distribution, work);
+                System.out.println('\n');
             }
         }
     }
