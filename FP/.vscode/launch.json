@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Main",
+      "mainClass": "Main",
+      "buildTarget": "file:/C:/Users/fedos/Documents/GItHub/PPFP2026/FP/.scala-build/?id=FP_d5c0a6989e",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}
