@@ -415,7 +415,7 @@ object Menu {
   def showPoliticInfo(policy: PswrdPolitic): Unit = {
     println(s"\nПолитика: ${policy.name}")
     println(s"Описание: ${policy.description}")
-    println(s"Длина: ${policy.MIN_LENGTH}–${policy.MAX_LENGTH} (по умолчанию ${policy.DEFAULT_LENGTH})")
+    println(s"Длина: ${policy.MIN_LENGTH} - ${policy.MAX_LENGTH} (по умолчанию ${policy.DEFAULT_LENGTH})")
     println("Группы символов:")
     policy.AllowedSymbolGroups.foreach { case (group, minimum) =>
       val requirement = if (minimum == 0) "необязательные" else s"минимум $minimum"
@@ -529,7 +529,7 @@ object Menu {
   def runApplication(): Unit = {
     var running = true
     while (running) {
-      println("\n1. Show politics")
+      println("\n1. Показать политики")
       println("2. Создать новую политику")
       println("0. Выход")
       readValue("Выберите действие: ").trim match {
