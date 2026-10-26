@@ -2125,3 +2125,1534 @@ WARNING: Unmatched cancel notification for request id 834
 2026.10.26 02:50:34 INFO  compiling fp_d5c0a6989e (1 scala source)
 2026.10.26 02:50:34 WARN  there was 1 deprecation warning; re-run with -deprecation for details
 2026.10.26 02:50:34 INFO  time: compiled FP_d5c0a6989e in 0.59s
+2026.10.26 02:53:34 WARN  Could not find semantic tokens for: file:///C:/Users/fedos/Documents/GItHub/PPFP2026/FP/Lab0/lab0/src/main/scala/Main.scala
+2026.10.26 02:53:44 WARN  Could not find semantic tokens for: file:///C:/Users/fedos/Documents/GItHub/PPFP2026/FP/Lab0/lab0/src/main/scala/Main.scala
+2026.10.26 02:53:46 WARN  Could not find semantic tokens for: file:///C:/Users/fedos/Documents/GItHub/PPFP2026/FP/Lab0/lab0/src/main/scala/Main.scala
+2026.10.26 02:53:46 WARN  Could not find semantic tokens for: file:///C:/Users/fedos/Documents/GItHub/PPFP2026/FP/Lab0/lab0/src/main/scala/Main.scala
+2026.10.26 02:53:50 INFO  time: code lens generation in 1.1s
+2026.10.26 02:53:51 INFO  time: code lens generation in 1.1s
+2026.10.26 02:53:51 INFO  time: code lens generation in 1.01s
+2026.10.26 03:00:02 INFO  time: code lens generation in 1.03s
+окт. 26, 2026 3:00:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3902
+2026.10.26 03:00:08 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:00:08 INFO  time: compiled FP_d5c0a6989e in 0.5s
+окт. 26, 2026 3:01:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3993
+2026.10.26 03:01:29 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:01:29 INFO  time: compiled FP_d5c0a6989e in 0.43s
+окт. 26, 2026 3:01:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4076
+окт. 26, 2026 3:03:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4592
+2026.10.26 03:04:06 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:04:06 INFO  time: compiled FP_d5c0a6989e in 0.15s
+окт. 26, 2026 3:04:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5335
+2026.10.26 03:06:12 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:06:12 INFO  time: compiled FP_d5c0a6989e in 0.14s
+окт. 26, 2026 3:09:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6378
+окт. 26, 2026 3:09:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6456
+2026.10.26 03:10:16 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:10:16 INFO  time: compiled FP_d5c0a6989e in 77ms
+2026.10.26 03:11:18 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:11:18 INFO  time: compiled FP_d5c0a6989e in 0.16s
+2026.10.26 03:13:02 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:13:02 INFO  time: compiled FP_d5c0a6989e in 0.11s
+окт. 26, 2026 3:13:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7936
+окт. 26, 2026 3:17:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10050
+2026.10.26 03:18:15 INFO  Created report: Optional[file:///C:/Users/fedos/Documents/GItHub/PPFP2026/FP/Lab0/lab0/src/main/scala/Main.scala]
+2026.10.26 03:18:15 INFO  java.lang.UnsupportedOperationException: openForMutations (full report at: "C:\Users\fedos\Documents\GItHub\PPFP2026\FP\.metals\.reports\metals-full\2026-10-26\r_compiler-error_(FP_5fd5c0a6989e)_03-18-15-961.md")
+2026.10.26 03:18:39 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\fedos\Documents\GItHub\PPFP2026\FP\.metals\.reports\metals-full\2026-10-25\r_empty-definition_(FP_5fd5c0a6989e)_20-47-24-957.md")
+2026.10.26 03:18:39 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:18:39 INFO  time: compiled FP_d5c0a6989e in 0.14s
+окт. 26, 2026 3:18:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10402
+2026.10.26 03:19:02 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:19:02 INFO  time: compiled FP_d5c0a6989e in 0.25s
+окт. 26, 2026 3:19:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10613
+2026.10.26 03:21:28 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:21:28 INFO  time: compiled FP_d5c0a6989e in 0.16s
+2026.10.26 03:21:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:21:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:21:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:21:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:21:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:21:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:21:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:21:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:21:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:21:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:14 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:14 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+окт. 26, 2026 3:22:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11721
+2026.10.26 03:22:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:48 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+окт. 26, 2026 3:22:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12006
+2026.10.26 03:22:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:22:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+окт. 26, 2026 3:23:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12254
+2026.10.26 03:23:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:48 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:23:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+окт. 26, 2026 3:24:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12625
+2026.10.26 03:24:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:24:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:12 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:31 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:48 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:25:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:14 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:26:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:48 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+окт. 26, 2026 3:27:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14060
+2026.10.26 03:27:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:27:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:28:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:31 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+окт. 26, 2026 3:29:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14792
+2026.10.26 03:29:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:29:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:14 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:31 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:50 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:30:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:12 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:50 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:31:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:12 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:32:55 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:32:55 INFO  time: compiled FP_d5c0a6989e in 0.39s
+2026.10.26 03:32:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:33:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:33:35 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:33:35 INFO  time: compiled FP_d5c0a6989e in 0.4s
+2026.10.26 03:33:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:33:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:33:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:33:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:12 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:12 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:56 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:34:56 INFO  time: compiled FP_d5c0a6989e in 0.38s
+2026.10.26 03:34:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:34:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:14 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:35:48 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:35:48 INFO  time: compiled FP_d5c0a6989e in 0.4s
+2026.10.26 03:35:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:50 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:36:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:12 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:31 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:48 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:50 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:50 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:37:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:48 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:50 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:38:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:12 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:31 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:39:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:12 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:12 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+окт. 26, 2026 3:40:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18670
+2026.10.26 03:40:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:31 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:48 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:50 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:40:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:31 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:48 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:50 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:41:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:14 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:48 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:50 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:42:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:12 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:14 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:14 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:31 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:43:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:31 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:44:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:05 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:12 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:14 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:25 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:39 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:54 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:45:59 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:03 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:04 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:07 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:11 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:52 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:46:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+окт. 26, 2026 3:47:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21336
+2026.10.26 03:47:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:21 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:50 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:47:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:51:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:51:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:51:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:51:38 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:51:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:51:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:51:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:14 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:20 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:27 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:29 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:30 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:33 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:45 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:46 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:55 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:56 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:52:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:00 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:01 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:02 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:08 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:09 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:10 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:14 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:18 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:19 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:22 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:24 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:26 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:32 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:34 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:35 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:37 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:40 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:41 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:48 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:50 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:49 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:51 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:53:58 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:54:13 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:54:14 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:54:14 INFO  time: compiled FP_d5c0a6989e in 0.49s
+2026.10.26 03:54:15 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:54:24 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:54:24 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:54:24 WARN  no build target for: C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala
+2026.10.26 03:54:24 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:54:24 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:54:24 WARN  No build server connected
+2026.10.26 03:54:24 INFO  Cancelling compilation on scala-cli server
+2026.10.26 03:54:24 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:54:24 INFO  Deduplicating compilation of FP_d5c0a6989e from bsp client 'scala-cli 1.14.0' (since 1h 53m 46.819s)
+2026.10.26 03:54:24 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:54:25 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:54:24 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:54:24 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:54:24 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:54:24 WARN  Invalid text document uri received from build server: file:///C:/Users/fedos/Documents/GItHub/PPFP2026/FP/Lab0/lab0/src/main/scala/Main.scala
+2026.10.26 03:54:24 INFO  time: compiled FP_d5c0a6989e in 0.37s
+2026.10.26 03:54:24 WARN  Invalid text document uri received from build server: file:///C:/Users/fedos/Documents/GItHub/PPFP2026/FP/Lab0/lab0/src/main/scala/Main.scala
+2026.10.26 03:54:24 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:54:25 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:54:25 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:54:25 INFO  time: compiled FP_d5c0a6989e in 0.5s
+2026.10.26 03:54:25 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:54:25 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:54:25 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:55:12 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:55:12 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:55:13 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:55:13 INFO  time: compiled FP_d5c0a6989e in 1.03s
+2026.10.26 03:55:13 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:55:14 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:55:14 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:55:13 INFO  time: compiled FP_d5c0a6989e in 0.72s
+2026.10.26 03:55:15 WARN  No build server connected
+2026.10.26 03:55:15 INFO  compiling fp_d5c0a6989e (2 scala sources)
+2026.10.26 03:55:15 ERROR Bad symbolic reference. A signature
+refers to SymbolsGroup[Unique $ 2]/T in package <empty> which is not available.
+It may be completely missing from the current classpath, or the version on
+the classpath might be incompatible with the version used when compiling the signature.
+2026.10.26 03:55:15 INFO  time: compiled FP_d5c0a6989e in 0.79s
+2026.10.26 03:55:16 INFO  compiling fp_d5c0a6989e (2 scala sources)
+2026.10.26 03:55:16 INFO  Deduplicating compilation of FP_d5c0a6989e from bsp client 'scala-cli 1.14.0' (since 1h 54m 38.402s)
+2026.10.26 03:55:16 INFO  compiling fp_d5c0a6989e (2 scala sources)
+2026.10.26 03:55:16 ERROR Bad symbolic reference. A signature
+refers to SymbolsGroup[Unique $ 2]/T in package <empty> which is not available.
+It may be completely missing from the current classpath, or the version on
+the classpath might be incompatible with the version used when compiling the signature.
+2026.10.26 03:55:16 ERROR Bad symbolic reference. A signature
+refers to SymbolsGroup[Unique $ 2]/T in package <empty> which is not available.
+It may be completely missing from the current classpath, or the version on
+the classpath might be incompatible with the version used when compiling the signature.
+2026.10.26 03:55:16 INFO  time: compiled FP_d5c0a6989e in 0.34s
+2026.10.26 03:55:17 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:55:23 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:55:25 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:55:25 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:55:25 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:55:25 WARN  no build target for: C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main2.scala
+2026.10.26 03:55:31 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:56:04 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:56:04 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:56:04 WARN  no build target for: C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala
+2026.10.26 03:56:04 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:56:04 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:56:04 WARN  No build server connected
+2026.10.26 03:56:04 INFO  compiling fp_d5c0a6989e (2 scala sources)
+2026.10.26 03:56:04 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:56:04 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:56:04 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:56:04 ERROR Bad symbolic reference. A signature
+refers to SymbolsGroup[Unique $ 2]/T in package <empty> which is not available.
+It may be completely missing from the current classpath, or the version on
+the classpath might be incompatible with the version used when compiling the signature.
+2026.10.26 03:56:05 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:56:05 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:56:05 WARN  Invalid text document uri received from build server: file:///C:/Users/fedos/Documents/GItHub/PPFP2026/FP/Lab0/lab0/src/main/scala/Main2.scala
+2026.10.26 03:56:05 INFO  time: compiled FP_d5c0a6989e in 1.07s
+2026.10.26 03:56:05 INFO  compiling fp_d5c0a6989e (2 scala sources)
+2026.10.26 03:56:05 ERROR Bad symbolic reference. A signature
+refers to SymbolsGroup[Unique $ 2]/T in package <empty> which is not available.
+It may be completely missing from the current classpath, or the version on
+the classpath might be incompatible with the version used when compiling the signature.
+2026.10.26 03:56:06 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:56:06 INFO  time: compiled FP_d5c0a6989e in 0.98s
+2026.10.26 03:56:16 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:56:23 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:56:23 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:56:23 WARN  no build target for: C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala
+2026.10.26 03:56:28 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:56:36 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:56:42 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:56:44 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:57:43 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:57:47 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:57:50 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:57:51 INFO  compiling fp_d5c0a6989e (2 scala sources)
+2026.10.26 03:57:51 ERROR Bad symbolic reference. A signature
+refers to SymbolsGroup[Unique $ 2]/T in package <empty> which is not available.
+It may be completely missing from the current classpath, or the version on
+the classpath might be incompatible with the version used when compiling the signature.
+2026.10.26 03:57:53 INFO  time: compiled FP_d5c0a6989e in 1.1s
+2026.10.26 03:57:53 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:57:57 WARN  Could not load snapshot text for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\src\main\scala\Main.scala
+2026.10.26 03:58:14 WARN  No build server connected
+2026.10.26 03:58:14 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:58:14 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.10.26 03:58:14 WARN  Invalid text document uri received from build server: file:///C:/Users/fedos/Documents/GItHub/PPFP2026/FP/Lab0/lab0/Main2.scala
+2026.10.26 03:58:14 INFO  time: compiled FP_d5c0a6989e in 0.59s
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22489
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22492
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22494
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22497
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22503
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22504
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22498
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22505
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22499
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22506
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22502
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22501
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22513
+окт. 26, 2026 3:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22510
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22512
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22517
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22519
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22516
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22524
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22528
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22529
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22526
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22525
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didOpen",
+  "params": {
+    "textDocument": {
+      "uri": "file:///c%3A/Users/fedos/Documents/GItHub/PPFP2026/FP/Lab0/lab0/Main2.scala",
+      "languageId": "scala",
+      "version": 1,
+      "text": "object EventLogger {\r\n  import java.nio.charset.StandardCharsets\r\n  import java. nio.file.{Files, Path, Paths, StandardOpenOption}\r\n  import java.time.LocalDateTime\r\n  import java.time.format.DateTimeFormatter\r\n  import scala.util.control.NonFatal\r\n\r\n  private val timestampFormat \u003d DateTimeFormatter.ofPattern(\"yyyy-MM-dd HH:mm:ss\")\r\n\r\n  private lazy val logFile : Path \u003d {\r\n    val workingDirectory \u003d Paths.get(\"\").toAbsolutePath\r\n    val localLogs \u003d workingDirectory.resolve(\"Logs\")\r\n    if(Files.isDirectory(localLogs)) localLogs.resolve(\"password-generator.log\")\r\n    else workingDirectory.resolve(Paths.get(\"Lab0\", \"lab0\", \"Logs\", \"password-generator.log\"))\r\n  }\r\n  def log(level: String, messege: String) : Unit \u003d {\r\n    val entry \u003d s\"${LocalDateTime.now().format(timestampFormat)} $level $messege${System.lineSeparator()}\"\r\n    try {\r\n      Files.createDirectories(logFile.getParent)\r\n      Files.writeString(\r\n        logFile, entry, StandardCharsets.UTF_8, StandardOpenOption.CREATE, StandardOpenOption.WRITE, StandardOpenOption.APPEND\r\n      )\r\n    }\r\n    catch {\r\n      case NonFatal(error) \u003d\u003e System.err.println(s\"Не удалось записать журнал: ${error.getMessage}\")\r\n    } \r\n  }\r\n}\r\n\r\nobject PolicySession {\r\n  private var snapshot \u003d List.empty[(java.nio.file.Path, PswrdPolitic)]\r\n  private var defaultPolicyName \u003d Option.empty[String]\r\n  private var initialized \u003d false\r\n\r\n  def current: List[(java.nio.file.Path, PswrdPolitic)] \u003d snapshot\r\n  def currentDefault: Option[String] \u003d defaultPolicyName\r\n  def hasSnapshot : Boolean \u003d initialized\r\n  def replace(policies: List[(java.nio.file.Path, PswrdPolitic)], defaultName: String) : Unit \u003d {\r\n    snapshot \u003d policies\r\n    defaultPolicyName \u003d Some(defaultName)\r\n    initialized \u003d true\r\n  }\r\n  def update(path: java.nio.file.Path, policy : PswrdPolitic) : Unit \u003d {\r\n    if(initialized) {\r\n      snapshot \u003d snapshot.filterNot(_._1 \u003d\u003d path) :+ (path -\u003e policy) ///AAAAAA\r\n    }\r\n  }\r\n}\r\n\r\nenum SymbolsGroup(val x: Array[Char]) {\r\n  case LowercaseLatinLetters extends SymbolsGroup((\u0027a\u0027 to \u0027z\u0027).toArray)\r\n  case UppercaseLatinLetters extends SymbolsGroup((\u0027A\u0027 to \u0027Z\u0027).toArray)\r\n  case Numbers extends SymbolsGroup((\u00270\u0027 to \u00279\u0027).toArray)\r\n  case SpecialSymbols extends SymbolsGroup(\r\n    Array(\r\n      \u0027!\u0027,\u0027@\u0027,\u0027#\u0027,\u0027$\u0027,\u0027%\u0027,\u0027^\u0027,\u0027\u0026\u0027,\u0027*\u0027,\u0027(\u0027,\u0027)\u0027,\u0027_\u0027,\u0027-\u0027,\u0027+\u0027,\u0027\u003d\u0027\r\n    )\r\n  )\r\n}\r\n\r\nclass PswrdPolitic(\r\n  var name: String,\r\n  var description : String,\r\n  var MAX_LENGTH : Int,\r\n  var MIN_LENGTH : Int,\r\n  var DEFAULT_LENGTH : Int,\r\n  var AllowedSymbolsGroups : Array[(SymbolsGroup, Int)], //Разрешенная группа символов и минимальное количество символов каждой группы\r\n  var BlockedSymbols : Array[Char],\r\n  var AllowRepeat : Boolean,\r\n  var MaxRepeatSymVal : Int,\r\n  var AllowSpace : Boolean,\r\n  var BlockedStrings : Array[String]\r\n)\r\n{\r\n  def GeneratePassword(requestedLength: Int \u003d DEFAULT_LENGTH): String \u003d {\r\n    import scala.util.Random\r\n    require(MIN_LENGTH \u003e\u003d 1 \u0026\u0026 MAX_LENGTH \u003e\u003d MIN_LENGTH, \"Некорректные границы длины\")\r\n    require(requestedLength \u003e\u003d MIN_LENGTH \u0026\u0026 requestedLength \u003c\u003d MAX_LENGTH, s\"Длина $requestedLength не разрешена политикой \u0027$name\u0027. Допустимо от $MIN_LENGTH до $MAX_LENGTH.\")\r\n    require(MaxRepeatSymVal \u003e\u003d 1, \"Максимальное количество повторений символа должно быть не меньше 1\")\r\n    require(AllowedSymbolsGroups.nonEmpty, \"Не задано ни одной группы символов\")\r\n    val length \u003d requestedLength\r\n    val blocked \u003d BlockedSymbols.toSet\r\n    val groups \u003d AllowedSymbolsGroups.toList.map { case (group, minimum) \u003d\u003e ///////////////AAAAAAAA\r\n      require(minimum \u003e\u003d 0, s\"Отрицательный минимум для группы $group\")\r\n      val available \u003d group.x.filterNot(ch \u003d\u003e blocked.contains(ch)).distinct.toList\r\n      require(minimum \u003d\u003d 0 || available.nonEmpty, s\"В группе $group не осталось разрешенных символов\")\r\n      (available, minimum)\r\n    }\r\n    val pool \u003d (groups.flatMap(_._1) ++ (if (AllowSpace \u0026\u0026 !blocked.contains(\u0027 \u0027)) List(\u0027 \u0027) else Nill)).distinct\r\n    val requiredCount \u003d groups.iterator.map(_._2.toLong).sum\r\n    require(pool.nonEmpty, \"нет доступных символов для генерации\")\r\n    require(requestedLength \u003c\u003d length, s\"Обязательных символов больше, чем длина пароля по политике \u0027$name\u0027\")\r\n    require(AllowRepeat || pool.length \u003e\u003d length, \"При запрещенных повторах недостаточно допустимых символов\") ///////////ZZZZZZZZZZZZZ\r\n    \r\n    def isValid(password: String) : Boolean \u003d {\r\n      val groupRequirementMet \u003d groups.forall {case (chars, minimum) \u003d\u003e\r\n        password.count(ch \u003d\u003e chars.contains(ch)) \u003e\u003d minimum\r\n      }\r\n      val\r\n    }\r\n  }\r\n}"
+    }
+  }
+}
+java.lang.IllegalStateException: An unexpected exception occurred while executing jsonrpc method public abstract java.util.concurrent.CompletableFuture scala.meta.metals.lsp.TextDocumentService.didOpen(org.eclipse.lsp4j.DidOpenTextDocumentParams)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:73)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: java.nio.file.NoSuchFileException: c:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:38)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.metals.MetalsLspService.didOpen(MetalsLspService.scala:764)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:478)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	... 11 more
+
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22532
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.nio.file.NoSuchFileException: c:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala
+java.util.concurrent.CompletionException: java.nio.file.NoSuchFileException: c:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: java.nio.file.NoSuchFileException: c:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:38)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:512)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionAbsolutePathBuffers.toInputFromBuffers(MetalsEnrichments.scala:632)
+	at scala.meta.internal.metals.SourceMapper.input$1(SourceMapper.scala:32)
+	at scala.meta.internal.metals.SourceMapper.$anonfun$pcMapping$2(SourceMapper.scala:37)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.SourceMapper.default$1(SourceMapper.scala:37)
+	at scala.meta.internal.metals.SourceMapper.$anonfun$pcMapping$13(SourceMapper.scala:85)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.SourceMapper.pcMapping(SourceMapper.scala:85)
+	at scala.meta.internal.metals.Compilers.sourceAdjustments(Compilers.scala:1677)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$2(Compilers.scala:565)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.semanticTokens(Compilers.scala:561)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$semanticTokensFull$2(MetalsLspService.scala:1151)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	... 3 more
+
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: An unexpected exception occurred while executing jsonrpc method public abstract java.util.concurrent.CompletableFuture scala.meta.metals.lsp.TextDocumentService.codeAction(org.eclipse.lsp4j.CodeActionParams)
+java.lang.IllegalStateException: An unexpected exception occurred while executing jsonrpc method public abstract java.util.concurrent.CompletableFuture scala.meta.metals.lsp.TextDocumentService.codeAction(org.eclipse.lsp4j.CodeActionParams)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:73)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: java.nio.file.NoSuchFileException: c:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:38)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:512)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionAbsolutePathBuffers.toInputFromBuffers(MetalsEnrichments.scala:632)
+	at scala.meta.internal.metals.SourceMapper.input$1(SourceMapper.scala:32)
+	at scala.meta.internal.metals.SourceMapper.$anonfun$pcMapping$2(SourceMapper.scala:37)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.SourceMapper.default$1(SourceMapper.scala:37)
+	at scala.meta.internal.metals.SourceMapper.$anonfun$pcMapping$13(SourceMapper.scala:85)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.SourceMapper.pcMapping(SourceMapper.scala:85)
+	at scala.meta.internal.metals.Compilers.sourceAdjustments(Compilers.scala:1677)
+	at scala.meta.internal.metals.Compilers.sourceAdjustments(Compilers.scala:1639)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1539)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.autoImports(Compilers.scala:822)
+	at scala.meta.internal.metals.codeactions.ImportMissingSymbol.scala$meta$internal$metals$codeactions$ImportMissingSymbol$$importMissingSymbol$1(ImportMissingSymbol.scala:103)
+	at scala.meta.internal.metals.codeactions.ImportMissingSymbol$$anonfun$contribute$14.applyOrElse(ImportMissingSymbol.scala:158)
+	at scala.meta.internal.metals.codeactions.ImportMissingSymbol$$anonfun$contribute$14.applyOrElse(ImportMissingSymbol.scala:153)
+	at scala.collection.immutable.List.collect(List.scala:257)
+	at scala.collection.immutable.List.collect(List.scala:79)
+	at scala.meta.internal.metals.codeactions.ImportMissingSymbol.contribute(ImportMissingSymbol.scala:153)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:88)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:86)
+	at scala.collection.immutable.List.collect(List.scala:265)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider.codeActions(CodeActionProvider.scala:86)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeAction$1(MetalsLspService.scala:1228)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.codeAction(MetalsLspService.scala:1227)
+	at scala.meta.internal.metals.WorkspaceLspService.codeAction(WorkspaceLspService.scala:628)
+	at scala.meta.metals.lsp.DelegatingScalaService.codeAction(DelegatingScalaService.scala:157)
+	at jdk.internal.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	... 11 more
+
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22536
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: An unexpected exception occurred while executing jsonrpc method public abstract java.util.concurrent.CompletableFuture scala.meta.metals.lsp.TextDocumentService.codeAction(org.eclipse.lsp4j.CodeActionParams)
+java.lang.IllegalStateException: An unexpected exception occurred while executing jsonrpc method public abstract java.util.concurrent.CompletableFuture scala.meta.metals.lsp.TextDocumentService.codeAction(org.eclipse.lsp4j.CodeActionParams)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:73)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: java.nio.file.NoSuchFileException: c:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\lab0\Main2.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:38)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:512)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionAbsolutePathBuffers.toInputFromBuffers(MetalsEnrichments.scala:632)
+	at scala.meta.internal.metals.SourceMapper.input$1(SourceMapper.scala:32)
+	at scala.meta.internal.metals.SourceMapper.$anonfun$pcMapping$2(SourceMapper.scala:37)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.SourceMapper.default$1(SourceMapper.scala:37)
+	at scala.meta.internal.metals.SourceMapper.$anonfun$pcMapping$13(SourceMapper.scala:85)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.SourceMapper.pcMapping(SourceMapper.scala:85)
+	at scala.meta.internal.metals.Compilers.sourceAdjustments(Compilers.scala:1677)
+	at scala.meta.internal.metals.Compilers.sourceAdjustments(Compilers.scala:1639)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1539)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.autoImports(Compilers.scala:822)
+	at scala.meta.internal.metals.codeactions.ImportMissingSymbol.scala$meta$internal$metals$codeactions$ImportMissingSymbol$$importMissingSymbol$1(ImportMissingSymbol.scala:103)
+	at scala.meta.internal.metals.codeactions.ImportMissingSymbol$$anonfun$contribute$14.applyOrElse(ImportMissingSymbol.scala:158)
+	at scala.meta.internal.metals.codeactions.ImportMissingSymbol$$anonfun$contribute$14.applyOrElse(ImportMissingSymbol.scala:153)
+	at scala.collection.immutable.List.collect(List.scala:257)
+	at scala.collection.immutable.List.collect(List.scala:79)
+	at scala.meta.internal.metals.codeactions.ImportMissingSymbol.contribute(ImportMissingSymbol.scala:153)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:88)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:86)
+	at scala.collection.immutable.List.collect(List.scala:265)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider.codeActions(CodeActionProvider.scala:86)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeAction$1(MetalsLspService.scala:1228)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.codeAction(MetalsLspService.scala:1227)
+	at scala.meta.internal.metals.WorkspaceLspService.codeAction(WorkspaceLspService.scala:628)
+	at scala.meta.metals.lsp.DelegatingScalaService.codeAction(DelegatingScalaService.scala:157)
+	at jdk.internal.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	... 11 more
+
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22534
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22537
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22539
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22538
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22535
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22540
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22533
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22541
+окт. 26, 2026 3:58:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22544
+2026.10.26 03:58:22 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:58:22 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.10.26 03:58:22 INFO  time: compiled FP_d5c0a6989e in 0.68s
+2026.10.26 03:59:01 WARN  No build server connected
+2026.10.26 03:59:01 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:59:01 INFO  time: compiled FP_d5c0a6989e in 0.61s
+2026.10.26 03:59:01 INFO  compiling fp_d5c0a6989e (1 scala source)
+2026.10.26 03:59:02 INFO  time: compiled FP_d5c0a6989e in 0.51s
+окт. 26, 2026 3:59:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22571
+2026.10.26 03:59:38 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\Mainresearch.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:59:38 INFO  no build target found for C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\Mainresearch.scala. Using presentation compiler with project's scala-library version: 3.8.3
+2026.10.26 03:59:38 WARN  no build target for: C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab0\Mainresearch.scala
+2026.10.26 03:59:47 WARN  No build server connected
+2026.10.26 03:59:47 WARN  Invalid text document uri received from build server: file:///C:/Users/fedos/Documents/GItHub/PPFP2026/FP/Lab0/Mainresearch.scala
+2026.10.26 04:01:00 INFO  Shutting down server
+2026.10.26 04:01:00 INFO  Memory monitor stopped
+2026.10.26 04:01:00 INFO  shutting down Metals
+2026.10.26 04:01:00 INFO  Shut down connection with build server.
+2026.10.26 04:01:00 INFO  Exiting server

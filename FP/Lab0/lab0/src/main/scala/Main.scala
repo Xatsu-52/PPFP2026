@@ -77,7 +77,7 @@ class PswrdPolitic(
   var AllowRepeat : Boolean,
   var MaxRepeatSymVal : Int,
   var AllowSpace : Boolean,
-  var BlockedStrings : Array[String],
+  var BlockedStrings : Array[String]
 )
 {
   def GeneratePassword(requestedLength: Int = DEFAULT_LENGTH): String = {
