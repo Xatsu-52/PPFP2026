@@ -1,25 +1,30 @@
 object EventLogger {
   import java.nio.charset.StandardCharsets
   import java.nio.file.{Files, Path, Paths, StandardOpenOption}
-  import java.time.LocalDateTime
+  import java.time.{LocalDate, LocalDateTime}
   import java.time.format.DateTimeFormatter
   import scala.util.control.NonFatal
 
   private val timestampFormat = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")
 
-  private lazy val logFile: Path = {
+  private def logFile(date: LocalDate): Path = {
     val workingDirectory = Paths.get("").toAbsolutePath
     val localLogs = workingDirectory.resolve("Logs")
-    if (Files.isDirectory(localLogs)) localLogs.resolve("password-generator.log")
-    else workingDirectory.resolve(Paths.get("Lab0", "lab0", "Logs", "password-generator.log"))
+    val projectLogs =
+      if (Files.isDirectory(localLogs) || Files.isDirectory(workingDirectory.resolve(Paths.get("src", "main", "scala")))) localLogs
+      else workingDirectory.resolve(Paths.get("Lab0", "lab0", "Logs"))
+    val dateString = date.format(DateTimeFormatter.ISO_LOCAL_DATE)
+    projectLogs.resolve(s"password-generator-$dateString.log")
   }
 
   def log(level: String, message: String): Unit = {
-    val entry = s"${LocalDateTime.now().format(timestampFormat)} $level $message${System.lineSeparator()}"
+    val timestamp = LocalDateTime.now()
+    val entry = s"${timestamp.format(timestampFormat)} $level $message${System.lineSeparator()}"
+    val currentLogFile = logFile(timestamp.toLocalDate)
     try {
-      Files.createDirectories(logFile.getParent)
+      Files.createDirectories(currentLogFile.getParent)
       Files.writeString(
-        logFile,
+        currentLogFile,
         entry,
         StandardCharsets.UTF_8,
         StandardOpenOption.CREATE,
@@ -34,17 +39,15 @@ object EventLogger {
 }
 
 object PolicySession {
+  val DefaultPolicyName = "default_politic"
   private var snapshot = List.empty[(java.nio.file.Path, PswrdPolitic)]
-  private var defaultPolicyName = Option.empty[String]
   private var initialized = false
 
   def current: List[(java.nio.file.Path, PswrdPolitic)] = snapshot
-  def currentDefault: Option[String] = defaultPolicyName
   def hasSnapshot: Boolean = initialized
 
-  def replace(policies: List[(java.nio.file.Path, PswrdPolitic)], defaultName: String): Unit = {
+  def replace(policies: List[(java.nio.file.Path, PswrdPolitic)]): Unit = {
     snapshot = policies
-    defaultPolicyName = Some(defaultName)
     initialized = true
   }
 
@@ -244,7 +247,7 @@ object Menu {
 
   def readPasswordLength(policy: PswrdPolitic): Int = {
     while (true) {
-      val input = readValue(s"Длина пароля (Enter = ${policy.DEFAULT_LENGTH}): ").trim
+      val input = readValue(s"Длина пароля (Например = ${policy.DEFAULT_LENGTH}): ").trim
       if (input.isEmpty) return policy.DEFAULT_LENGTH
       input.toIntOption match {
         case Some(length) if length >= policy.MIN_LENGTH && length <= policy.MAX_LENGTH => return length
@@ -303,47 +306,6 @@ object Menu {
     val localConfigDirectory = currentDirectory.resolve("PswConfigs")
     if (Files.isDirectory(localConfigDirectory)) localConfigDirectory
     else currentDirectory.resolve(Paths.get("Lab0", "lab0", "PswConfigs"))
-  }
-
-  private def applicationConfigFile: java.nio.file.Path =
-    policyConfigDirectory.resolve("application.properties")
-
-  private def readDefaultPolicyName(): String = {
-    import java.nio.file.Files
-    import java.util.Properties
-
-    if (!Files.isRegularFile(applicationConfigFile)) {
-      throw new IllegalArgumentException("В application.properties отсутствует параметр defaultPolicy.")
-    }
-    val properties = new Properties()
-    val input = Files.newInputStream(applicationConfigFile)
-    try properties.load(input)
-    finally input.close()
-    Option(properties.getProperty("defaultPolicy")).map(_.trim).filter(_.nonEmpty)
-      .getOrElse(throw new IllegalArgumentException("Параметр defaultPolicy отсутствует или пуст."))
-  }
-
-  def setDefaultPolicy(policy: PswrdPolitic, policyFile: java.nio.file.Path): Unit = {
-    import java.nio.file.{Files, StandardOpenOption}
-    import java.util.Properties
-
-    validatePolicy(policy)
-    if (!Files.isRegularFile(policyFile) || loadPolitic(policyFile).name != policy.name) {
-      throw new IllegalArgumentException(s"Нельзя назначить default отсутствующую политику '${policy.name}'.")
-    }
-
-    val properties = new Properties()
-    properties.setProperty("defaultPolicy", policy.name)
-    Files.createDirectories(policyConfigDirectory)
-    val output = Files.newOutputStream(
-      applicationConfigFile,
-      StandardOpenOption.CREATE,
-      StandardOpenOption.TRUNCATE_EXISTING,
-      StandardOpenOption.WRITE
-    )
-    try properties.store(output, "Application settings")
-    finally output.close()
-    EventLogger.log("INFO", s"Назначена политика по умолчанию: policy=${policy.name}")
   }
 
   def CreatePolitic(): PswrdPolitic = {
@@ -418,7 +380,6 @@ object Menu {
     try properties.store(output, s"Password policy: $name")
     finally output.close()
 
-    if (!Files.exists(applicationConfigFile)) setDefaultPolicy(policy, configFile)
     EventLogger.log("INFO", s"Политика создана и сохранена: policy=$name")
     reloadConfiguration()
     println(s"Политика '$name' сохранена: $configFile")
@@ -533,12 +494,13 @@ object Menu {
       if (configFiles.isEmpty) throw new IllegalArgumentException("В папке PswConfigs нет политик.")
 
       val candidate = configFiles.map(path => path -> loadPolitic(path))
-      val defaultName = readDefaultPolicyName()
-      if (!candidate.exists(_._2.name == defaultName)) {
-        throw new IllegalArgumentException(s"defaultPolicy '$defaultName' не соответствует ни одному файлу политики.")
+      if (!candidate.exists(_._2.name == PolicySession.DefaultPolicyName)) {
+        throw new IllegalArgumentException(
+          s"Не найдена обязательная политика по умолчанию '${PolicySession.DefaultPolicyName}'."
+        )
       }
 
-      PolicySession.replace(candidate, defaultName)
+      PolicySession.replace(candidate)
       EventLogger.log("INFO", s"Конфигурация успешно перезагружена: policies=${candidate.size}")
       println(s"Конфигурация перезагружена. Загружено политик: ${candidate.size}.")
       true
@@ -781,7 +743,6 @@ object Menu {
       println("2. Показать информацию")
       println("3. Редактировать политику")
       println("4. Проверить пароль по этой политике")
-      println("5. Назначить политикой по умолчанию")
       println("0. Назад")
       readValue("Выберите действие: ").trim match {
         case "1" =>
@@ -810,19 +771,10 @@ object Menu {
           EventLogger.log("INFO", s"Запрошена проверка пароля: policy=${policy.name}")
           val password = readValue("Введите пароль для проверки: ")
           checkPassword(policy, password)
-        case "5" =>
-          try {
-            setDefaultPolicy(policy, configFile)
-            reloadConfiguration()
-          } catch {
-            case scala.util.control.NonFatal(error) =>
-              EventLogger.log("ERROR", s"Ошибка назначения defaultPolicy: ${error.getMessage}")
-              println(s"Не удалось назначить политику по умолчанию: ${error.getMessage}")
-          }
         case "0" => selected = false
         case _ =>
           EventLogger.log("WARN", "Введён неизвестный пункт меню политики")
-          println("Неверный ввод. Введите 1, 2, 3, 4, 5 или 0.")
+          println("Неверный ввод. Введите 1, 2, 3, 4 или 0.")
       }
     }
   }
@@ -833,7 +785,7 @@ object Menu {
       return
     }
 
-    val defaultName = PolicySession.currentDefault.get
+    val defaultName = PolicySession.DefaultPolicyName
     PolicySession.current.find(_._2.name == defaultName) match {
       case Some((_, policy)) =>
         EventLogger.log("INFO", s"Запрошена генерация по умолчанию: policy=${policy.name}")
