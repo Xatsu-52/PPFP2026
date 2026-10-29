@@ -1,0 +1,6 @@
+#FileLock
+#Thu Oct 29 19:02:49 MSK 2026
+server=localhost\:53000
+hostName=localhost
+method=file
+id=1a1886650795327e5799eb80592a04a8da306440587
