@@ -1,0 +1,178 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "lab1-test",
+        "directory": "C:\\Users\\fedos\\Documents\\GItHub\\PPFP2026\\FP\\Lab1\\lab1",
+        "workspaceDir": "C:\\Users\\fedos\\Documents\\GItHub\\PPFP2026\\FP\\Lab1\\lab1",
+        "sources": [
+            "C:\\Users\\fedos\\Documents\\GItHub\\PPFP2026\\FP\\Lab1\\lab1\\src\\test\\scala",
+            "C:\\Users\\fedos\\Documents\\GItHub\\PPFP2026\\FP\\Lab1\\lab1\\src\\test\\scala-3",
+            "C:\\Users\\fedos\\Documents\\GItHub\\PPFP2026\\FP\\Lab1\\lab1\\src\\test\\java",
+            "C:\\Users\\fedos\\Documents\\GItHub\\PPFP2026\\FP\\Lab1\\lab1\\target\\scala-3.3.6\\src_managed\\test"
+        ],
+        "dependencies": [
+            "lab1"
+        ],
+        "classpath": [
+            "C:\\Users\\fedos\\Documents\\GItHub\\PPFP2026\\FP\\Lab1\\lab1\\.bloop\\lab1\\scala-3.3.6\\classes",
+            "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala3-library_3\\3.3.6\\scala3-library_3-3.3.6.jar",
+            "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar"
+        ],
+        "out": "C:\\Users\\fedos\\Documents\\GItHub\\PPFP2026\\FP\\Lab1\\lab1\\.bloop\\lab1",
+        "classesDir": "C:\\Users\\fedos\\Documents\\GItHub\\PPFP2026\\FP\\Lab1\\lab1\\.bloop\\lab1\\scala-3.3.6\\test-classes",
+        "resources": [
+            "C:\\Users\\fedos\\Documents\\GItHub\\PPFP2026\\FP\\Lab1\\lab1\\src\\test\\resources",
+            "C:\\Users\\fedos\\Documents\\GItHub\\PPFP2026\\FP\\Lab1\\lab1\\target\\scala-3.3.6\\resource_managed\\test"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "3.3.6",
+            "options": [
+                
+            ],
+            "jars": [
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala3-library_3\\3.3.6\\scala3-library_3-3.3.6.jar",
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar",
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala3-compiler_3\\3.3.6\\scala3-compiler_3-3.3.6.jar",
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala3-interfaces\\3.3.6\\scala3-interfaces-3.3.6.jar",
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\tasty-core_3\\3.3.6\\tasty-core_3-3.3.6.jar",
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-asm\\9.8.0-scala-1\\scala-asm-9.8.0-scala-1.jar",
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\compiler-interface\\1.10.4\\compiler-interface-1.10.4.jar",
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-reader\\3.27.1\\jline-reader-3.27.1.jar",
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal\\3.27.1\\jline-terminal-3.27.1.jar",
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal-jni\\3.27.1\\jline-terminal-jni-3.27.1.jar",
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-interface\\1.10.4\\util-interface-1.10.4.jar",
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-native\\3.27.1\\jline-native-3.27.1.jar"
+            ],
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": false,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": false,
+                "filterLibraryFromClasspath": false
+            },
+            "bridgeJars": [
+                "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala3-sbt-bridge\\3.3.6\\scala3-sbt-bridge-3.3.6.jar"
+            ]
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "zio.test.sbt.ZTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "weaver.framework.CatsEffect"
+                    ]
+                },
+                {
+                    "names": [
+                        "hedgehog.sbt.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Java\\jdk-17",
+                "options": [
+                    "-Duser.dir=C:\\Users\\fedos\\Documents\\GItHub\\PPFP2026\\FP\\Lab1\\lab1"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala3-library_3",
+                    "version": "3.3.6",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala3-library_3",
+                            "path": "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala3-library_3\\3.3.6\\scala3-library_3-3.3.6.jar"
+                        },
+                        {
+                            "name": "scala3-library_3",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala3-library_3\\3.3.6\\scala3-library_3-3.3.6-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.16",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\fedos\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "test"
+        ]
+    }
+}
