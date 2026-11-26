@@ -286,3 +286,24 @@ WARNING: Unmatched cancel notification for request id 279
 2026.11.23 19:22:34 INFO  time: indexed workspace in 9.76s
 но€б. 23, 2026 7:22:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2026.11.23 21:14:00 INFO  Shutting down server
+2026.11.23 21:14:00 INFO  Memory monitor stopped
+2026.11.23 21:14:00 INFO  shutting down Metals
+2026.11.23 21:14:00 INFO  Shut down connection with build server.
+2026.11.23 21:14:00 INFO  Exiting server
+2026.11.26 15:34:23 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab1' for client Visual Studio Code 1.147.0.
+2026.11.26 15:34:23 INFO  Memory monitor started
+2026.11.26 15:34:24 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.26 15:34:24 INFO  Attempting to connect to the build server...
+2026.11.26 15:34:24 INFO  No running Bloop server found, starting one.
+2026.11.26 15:34:26 INFO  Starting compilation server
+2026.11.26 15:34:27 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\fedos\Documents\GItHub\PPFP2026\FP\Lab1\.metals\bsp.trace.json or C:\Users\fedos\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.11.26 15:34:28 INFO  time: Connected to build server in 4.08s
+2026.11.26 15:34:27 INFO  Connected to Build server: Bloop v2.1.2
+2026.11.26 15:34:36 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.26 15:34:36 INFO  time: indexed workspace in 8.19s
+2026.11.26 15:34:48 INFO  Shutting down server
+2026.11.26 15:34:48 INFO  Memory monitor stopped
+2026.11.26 15:34:48 INFO  shutting down Metals
+2026.11.26 15:34:48 INFO  Shut down connection with build server.
+2026.11.26 15:34:48 INFO  Exiting server
